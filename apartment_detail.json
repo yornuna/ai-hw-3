@@ -1,0 +1,251 @@
+{
+  "apartment": {
+    "id": 2,
+    "title": "3-комн. квартира, 89 м²",
+    "price": 78500000,
+    "pricePerMonth": 412000,
+    "pricePerM2": "882,022 т/м²",
+    "priceChange": -4500000,
+    "priceChangePercent": -5.4,
+    "location": {
+      "latitude": 43.238,
+      "longitude": 76.9502,
+      "zoom": 15,
+      "address": "пр. Достык 162, Алматы",
+      "nearbyObjects": [
+        {
+          "name": "Метро Достык",
+          "distance": "0.4 км",
+          "type": "metro"
+        },
+        {
+          "name": "Парк Первого Президента",
+          "distance": "0.2 км",
+          "type": "park"
+        },
+        {
+          "name": "ЦУМ",
+          "distance": "1 км",
+          "type": "shopping"
+        },
+        {
+          "name": "Больница №4",
+          "distance": "0.8 км",
+          "type": "hospital"
+        },
+        {
+          "name": "Школа №107",
+          "distance": "1.2 км",
+          "type": "school"
+        },
+        {
+          "name": "Детский сад №35",
+          "distance": "0.9 км",
+          "type": "kindergarten"
+        },
+        {
+          "name": "Ресторан Kaganat",
+          "distance": "0.5 км",
+          "type": "restaurant"
+        },
+        {
+          "name": "Фитнес-клуб Gold's Gym",
+          "distance": "1.1 км",
+          "type": "gym"
+        }
+      ]
+    },
+    "district": "Медеуский",
+    "address": "пр. Достык 162, 16-19 этажи",
+    "gallery": [
+      {
+        "id": "img_1",
+        "url": "/images/apartment-2-living.jpg",
+        "alt": "Гостиная с видом на парк",
+        "type": "living-room"
+      },
+      {
+        "id": "img_2",
+        "url": "/images/apartment-2-bedroom-1.jpg",
+        "alt": "Главная спальня",
+        "type": "bedroom"
+      },
+      {
+        "id": "img_3",
+        "url": "/images/apartment-2-bedroom-2.jpg",
+        "alt": "Вторая спальня",
+        "type": "bedroom"
+      },
+      {
+        "id": "img_4",
+        "url": "/images/apartment-2-kitchen.jpg",
+        "alt": "Кухня-столовая",
+        "type": "kitchen"
+      },
+      {
+        "id": "img_5",
+        "url": "/images/apartment-2-bathroom.jpg",
+        "alt": "Ванная комната",
+        "type": "bathroom"
+      },
+      {
+        "id": "img_6",
+        "url": "/images/apartment-2-balcony.jpg",
+        "alt": "Балкон с панорамным видом",
+        "type": "balcony"
+      }
+    ],
+    "characteristics": {
+      "type": "Квартира",
+      "totalArea": 89,
+      "livingArea": 54,
+      "kitchenArea": 14,
+      "bedroomsCount": 3,
+      "bathroomsCount": 2,
+      "floor": 5,
+      "totalFloors": 16,
+      "buildingType": "Монолитно-кирпичное",
+      "yearBuilt": 2010,
+      "ceilingHeight": 3.2,
+      "gasHeating": true,
+      "waterHeating": "Центральное",
+      "waterSupply": "Центральное",
+      "sewage": "Центральное",
+      "electricity": "Электроплита",
+      "signal": "Сильный",
+      "parking": "Подземный, завр.",
+      "documents": "Готово к сделке"
+    },
+    "amenities": [
+      {
+        "id": "ac",
+        "name": "Кондиционер",
+        "icon": "ac",
+        "available": true
+      },
+      {
+        "id": "kitchen",
+        "name": "Встроенная кухня",
+        "icon": "kitchen",
+        "available": true
+      },
+      {
+        "id": "furniture",
+        "name": "Мебель",
+        "icon": "sofa",
+        "available": true
+      },
+      {
+        "id": "internet",
+        "name": "Интернет",
+        "icon": "wifi",
+        "available": true
+      },
+      {
+        "id": "security",
+        "name": "Охрана 24/7",
+        "icon": "lock",
+        "available": true
+      },
+      {
+        "id": "parking",
+        "name": "Паркинга",
+        "icon": "parking",
+        "available": true
+      },
+      {
+        "id": "elevator",
+        "name": "Лифт",
+        "icon": "elevator",
+        "available": true
+      },
+      {
+        "id": "heating",
+        "name": "Отопление",
+        "icon": "heating",
+        "available": true
+      },
+      {
+        "id": "door",
+        "name": "Железная дверь",
+        "icon": "door",
+        "available": true
+      },
+      {
+        "id": "balcony",
+        "name": "Балкон",
+        "icon": "balcony",
+        "available": true
+      }
+    ],
+    "description": "Светлая просторная квартира в одном из самых востребованных жилых комплексов Алматы. Окна выходят на парк и горы — панорамный вид! На высоком этаже. Свежайший полный ремонт в 2024 году — отшлифованный паркет, дубовый потолок, новые обои. Возможна сдача в аренду за 412 000 т/мес. Мебель и техника в комплекте или отдельно.\n\nОтличная инвестиция благодаря расположению в центре города и премиальному уровню отделки.",
+    "rules": {
+      "pets": true,
+      "children": true,
+      "smoking": false,
+      "events": false,
+      "shortRental": true
+    },
+    "calculator": {
+      "downPayment": 15700000,
+      "downPaymentPercent": 20,
+      "term": 20,
+      "monthlyPayment": "412 000 т/мес",
+      "totalPayment": 78500000,
+      "totalWithInterest": "98 880 000 т",
+      "interestRate": 10.5
+    },
+    "agent": {
+      "id": "agent_1",
+      "name": "Айгерим К.",
+      "role": "Главный риэлтор",
+      "rating": 4.9,
+      "reviews": 523,
+      "responseTime": "в течение часа",
+      "phone": "+7 700 123 45 67",
+      "whatsapp": true,
+      "telegram": true,
+      "viber": false,
+      "verified": true,
+      "avatar": "/images/agent-aigerim.jpg",
+      "company": "БСС Home",
+      "experience": "8 лет на рынке",
+      "description": "Специалист по премиальной недвижимости Медеуского района"
+    },
+
+    "similarApartments": [
+      4,
+      6,
+      20
+    ],
+
+    "documents": {
+      "ownership": "Собственник",
+      "description": "Свидетельство о праве собственности",
+      "status": "Готово к сделке",
+      "mortgageAvailable": true,
+      "tradeInAvailable": true
+    },
+
+    "relatedListings": {
+      "sameBuilding": [
+        1,
+        8,
+        15
+      ],
+      "sameDistrict": [
+        9,
+        14,
+        20
+      ],
+      "similarPrice": [
+        3,
+        6,
+        10
+      ]
+    },
+
+    "latitude": 43.238,
+    "longitude": 76.9502
+  }
+}
