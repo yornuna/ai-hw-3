@@ -1,0 +1,10 @@
+#!/bin/sh
+COMMIT_MSG=$(cat "$1")
+TRIGGER="feat: task finished"
+
+if [ "$COMMIT_MSG" = "$TRIGGER" ]; then
+  echo ""
+  echo "🎯 Final submission detected. Running full project audit..."
+  echo ""
+  node scripts/check-final-submission.mjs
+fi
